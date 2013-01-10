@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = Pingpong::VERSION
   gem.authors       = ["janno-p"]
   gem.email         = ["janno.poldma@gmail.com"]
-  gem.description   = %q{Simple Pong game clone using Ruby Programming Language}
+  gem.description   = %q{Simple Pong game clone using Ruby programming language}
   gem.summary       = %q{Simple Pong game clone.}
-  gem.homepage      = ""
+  gem.homepage      = "http://github.com/janno-p/pingpong"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }

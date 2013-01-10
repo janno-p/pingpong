@@ -18,9 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-Start application by running:
+After installing gem, start application by running:
 
-    ruby bin/pingpong.rb
+    pingpong
 
 ## Contributing
 
